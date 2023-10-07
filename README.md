@@ -1,5 +1,10 @@
 Family Tree
 
+Start the program by executing following command.
+
+```bash
+ruby main.rb
+```
 
 To add a person 
 
@@ -35,4 +40,10 @@ father of <name>
 
 ```bash
 mother of <name>
+```
+
+
+To exit the program
+```bash
+exit
 ```

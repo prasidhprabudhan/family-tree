@@ -93,6 +93,8 @@ class FamilyTree
         puts parent_of(input[2], 'male')
       when 'mother'
         puts parent_of(input[2], 'female')
+      when 'exit'
+        break
       end
     end
   end
